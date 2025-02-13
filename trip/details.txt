@@ -1,0 +1,4 @@
+This is the project of US Trip of IIT Kanpur
+
+This project is developed on Html, css and PHP concept
+Sql file is also included in this project and keep into the folder
